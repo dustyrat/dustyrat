@@ -1,16 +1,15 @@
-### Hi there 👋
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dustyrat&show_icons=true&theme=highcontrast)](https://github.com/dustyrat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dustyrat&layout=compact&theme=highcontrast)](https://github.com/dustyrat)
 
-<!--
-**dustyrat/dustyrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Documents](https://github-readme-stats.vercel.app/api/pin/?username=dustyrat&repo=Documents&theme=highcontrast)](https://github.com/dustyrat)
+[![go-metrics](https://github-readme-stats.vercel.app/api/pin/?username=dustyrat&repo=go-metrics&theme=highcontrast)](https://github.com/dustyrat)
+[![go-webapp](https://github-readme-stats.vercel.app/api/pin/?username=dustyrat&repo=go-webapp&theme=highcontrast)](https://github.com/dustyrat)
 
-Here are some ideas to get you started:
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dustyrat&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
