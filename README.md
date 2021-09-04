@@ -23,7 +23,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dustyrat&theme=darkhub)](https://github.com/dustyrat)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dustyrat&theme=highcontrast)](https://github.com/dustyrat)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dustyrat&theme=highcontrast)](https://wakatime.com/@dustyrat)
 
 <!--START_SECTION:waka-->
 ```text
@@ -31,7 +31,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/dustyrat)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <div align="center">
 
