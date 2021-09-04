@@ -5,9 +5,9 @@
 [![go-metrics](https://github-readme-stats.vercel.app/api/pin/?username=dustyrat&repo=go-metrics&theme=highcontrast)](https://github.com/dustyrat/go-metrics)
 [![go-webapp](https://github-readme-stats.vercel.app/api/pin/?username=dustyrat&repo=go-webapp&theme=highcontrast)](https://github.com/dustyrat/go-webapp)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dustyrat&theme=highcontrast)](https://github.com/dustyrat)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=dustyrat&theme=darkhub)](https://github.com/dustyrat)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dustyrat&theme=highcontrast)](https://github.com/dustyrat)
 
 <!--START_SECTION:waka-->
 ```text
