@@ -34,4 +34,5 @@ No Activity tracked this Week
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/dustyrat)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dustyrat)
+
 ![Visitor Count](https://profile-counter.glitch.me/dustyrat/count.svg)
