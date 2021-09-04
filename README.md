@@ -10,6 +10,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dustyrat&theme=darkhub)](https://github.com/dustyrat)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/dustyrat)
