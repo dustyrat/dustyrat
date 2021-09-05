@@ -1,3 +1,7 @@
+[![LinkedIn](https://img.shields.io/badge/-Dustin_Ratcliffe-181717?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dustin-r-80a20a51/)
+[![Discord](https://img.shields.io/badge/-Dustin_Ratcliffe%238911-181717?style=for-the-badge&logo=discord)](https://discord.com)
+[![Twitter](https://img.shields.io/badge/-Du5tyRat-181717?style=for-the-badge&logo=twitter)](https://twitter.com/Du5tyRat)
+
 ![Go](https://img.shields.io/badge/-Go-181717?style=flat-square&logo=go)
 ![VsCode](https://img.shields.io/badge/-VsCode-181717?style=flat-square&logo=visualstudiocode)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-181717?style=flat-square&logo=microsoftsqlserver)
