@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/-Dustin_Ratcliffe-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dustin-r-80a20a51/)
-[![Discord](https://img.shields.io/badge/-Dustin_Ratcliffe%238911-black?style=for-the-badge&logo=discord)](https://discord.com)
+[![Discord](https://img.shields.io/badge/-Dustin_Ratcliffe%238911-black?style=for-the-badge&logo=discord)](https://discord.com/users/414918938468548608)
 [![Twitter](https://img.shields.io/badge/-Du5tyRat-black?style=for-the-badge&logo=twitter)](https://twitter.com/Du5tyRat)
 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
